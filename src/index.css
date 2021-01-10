@@ -1,0 +1,13 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.heroimg {
+  height: 520px;
+}
+
+.thumbnails {
+  top: 27rem;
+  width: 64%;
+}
